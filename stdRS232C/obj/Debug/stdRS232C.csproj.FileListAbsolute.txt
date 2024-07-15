@@ -1,0 +1,9 @@
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\bin\Debug\stdRS232C.exe.config
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\bin\Debug\stdRS232C.exe
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\bin\Debug\stdRS232C.pdb
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\obj\Debug\stdRS232C.csprojResolveAssemblyReference.cache
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\obj\Debug\stdRS232C.Form1.resources
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\obj\Debug\stdRS232C.Properties.Resources.resources
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\obj\Debug\stdRS232C.csproj.GenerateResource.Cache
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\obj\Debug\stdRS232C.exe
+c:\users\wisem-01\documents\visual studio 2017\Projects\stdRS232C\stdRS232C\obj\Debug\stdRS232C.pdb
